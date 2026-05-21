@@ -33,3 +33,4 @@ JSON — встроенная текстовая база данных для п
 <* Running on http://127.0.0.1:5000>
 
 Зажмите клавишу Ctrl и кликните левой кнопкой мыши (Ctrl+ЛКМ) по ссылке, либо скопируйте адрес <http://127.0.0.1:5000> в любой браузер.
+<img width="1280" height="683" alt="image" src="https://github.com/user-attachments/assets/989955c8-5330-48d7-ac1b-e5fe378d2eb9" />
